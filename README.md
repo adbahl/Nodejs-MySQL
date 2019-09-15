@@ -1,2 +1,2 @@
 # Nodejs-MySQL
-Node.js (Javascript) used to create and update MySQL databse
+Node.js (JavaScript) used to create and update MySQL databse
